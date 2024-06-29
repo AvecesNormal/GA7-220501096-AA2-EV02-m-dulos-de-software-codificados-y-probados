@@ -1,0 +1,5 @@
+com\mycompany\ocs\DatabaseConnection.class
+RegisterServlet.class
+com\mycompany\ocs\resources\JakartaEE10Resource.class
+com\mycompany\ocs\JakartaRestConfiguration.class
+LoginServlet.class
